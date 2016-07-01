@@ -3,9 +3,9 @@ From a team at Cyclehack 2016 in Glasgow \#cyclehackgla \#cyclehack
 
 This is a repository of simple information (mainly some photos and drawings) showing the tools used to make the \#befairoutthere videos. The team found these tools enabled them to make simple films really quickly, but it took some work to test out and refine ideas. What was learned is shared here so that other people can copy the techniques to make their own simple short films about cycling. 
 
-Finished videos are here: [https://vimeo.com/groups/387549]
+Finished videos are here: https://vimeo.com/groups/387549
 
-The central description of the idea is here: [http://www.cyclehack.com/catalogue/befairoutthere/]
+The central description of the idea is here: http://www.cyclehack.com/catalogue/befairoutthere/
 
 ## The tools
 
@@ -47,5 +47,6 @@ To do:
 - [ ] Set video download on Vimeo to be allowed
 - [ ] Make low resolution versions available more easily
 - [ ] Link the Vimeo account back to the catalogue information
+- [ ] Make more videos
  
 
